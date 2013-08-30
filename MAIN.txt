@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELLO WORLD!
 
 <<<<<<< HEAD
@@ -5,3 +6,9 @@ EDITED IN TWO!
 =======
 HI WORLD!
 >>>>>>> one
+=======
+HELLO WORLD
+
+
+HELLO!!
+>>>>>>> three
