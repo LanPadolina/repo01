@@ -1,3 +1,7 @@
 HELLO WORLD!
 
+<<<<<<< HEAD
 EDITED IN TWO! 
+=======
+HI WORLD!
+>>>>>>> one
